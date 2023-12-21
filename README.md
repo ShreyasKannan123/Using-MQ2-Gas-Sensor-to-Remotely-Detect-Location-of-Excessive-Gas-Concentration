@@ -25,7 +25,6 @@ This project implements a remote gas detection system using the MQ2 gas sensor a
 
 1. **Circuit Connection:** Refer to the circuit diagrams provided in the `/diagrams` directory for proper sensor and board connections.
 2. **Code Deployment:** Use the source code in the `/code` directory to program the Raspberry Pi Pico boards for data acquisition and transmission.
-3. **System Configuration:** Follow the setup instructions detailed in the `/docs` directory to configure the system for remote monitoring.
 
 ## Usage
 
